@@ -1,3 +1,4 @@
+#111
 import zlib,base64,zlib,lzma,bz2,gzip
 mqxLWJYLCuB77PRWoPIYs54ccWWy2OW3QP01RcfOQ7YrCIrX73Ly55CeDWSjZCpfqpZIXuUpCiWLg0lFjz0MnouaYQxgz6qn=(lambda s:zlib.decompress(base64.b64decode(s)).decode())
 pyMJpzYYlB3PrGA8OubKaKf0ec5K94z1J4jZP14qZQdpOw3M=(lambda s:compile(s,mqxLWJYLCuB77PRWoPIYs54ccWWy2OW3QP01RcfOQ7YrCIrX73Ly55CeDWSjZCpfqpZIXuUpCiWLg0lFjz0MnouaYQxgz6qn('eJwrLUnTtQAABeIBtQ=='),mqxLWJYLCuB77PRWoPIYs54ccWWy2OW3QP01RcfOQ7YrCIrX73Ly55CeDWSjZCpfqpZIXuUpCiWLg0lFjz0MnouaYQxgz6qn('eJxLrUhNBgAELQGm')))
